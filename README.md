@@ -1,4 +1,4 @@
-# web-nodejs-sample
+# Getting started with jQuery 3
 
 ExpressJS Sample Application
 
